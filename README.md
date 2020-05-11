@@ -17,3 +17,12 @@ Forecast notebooks and visualizations focused in Bolivia data.
 ### Santa Cruz
 
 ![Santa Cruz](forecast_SantaCruz.png)
+
+### Oruro
+
+![Oruro](forecast_Oruro.png)
+
+
+### Beni
+
+![Beni](forecast_Beni.png)
