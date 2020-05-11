@@ -1,0 +1,10 @@
+jupyter==1.0.0
+matplotlib==3.2.1
+plotly==4.6.0
+pandas==1.0.3
+requests==2.23.0
+scipy==1.4.1
+convertdate==2.2.1
+LunarCalendar==0.0.9
+holidays==0.10.2
+fbprophet==0.6
