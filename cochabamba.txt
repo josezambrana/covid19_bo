@@ -1,0 +1,81 @@
+municipio             total  population  ds
+cercado               590    724126      2020-06-14
+sacaba                225    208913      2020-06-14
+entre rios            156    36351       2020-06-14
+quillacollo           131    169360      2020-06-14
+shinaota              79     24264       2020-06-14
+puerto villarroel     98     52357       2020-06-14
+chimore               49     26855       2020-06-14
+villa tunari          29     79253       2020-06-14
+punata                29     33011       2020-06-14
+sipe sipe             38     24264       2020-06-14
+vinto                 21     62131       2020-06-14
+santivanez            18     7295        2020-06-14
+colcapirhua           16     59172       2020-06-14
+san benito            10     17085       2020-06-14
+omereque              5      5850        2020-06-14
+tiquipaya             17     65881       2020-06-14
+colomi                6      22514       2020-06-14
+arani                 3      10046       2020-06-14
+cliza                 3      23987       2020-06-14
+tarata                2      8722        2020-06-14
+vacas                 3      9154        2020-06-14
+capinota              2      21644       2020-06-14
+tolata                2      6183        2020-06-14
+mizque                1      29059       2020-06-14
+toco                  1      7420        2020-06-14
+independencia         1      24898       2020-06-14
+bolivar               1      7370        2020-06-14
+sicaya                1      5789        2020-06-14
+cercado               377    724126      2020-06-07
+sacaba                176    208913      2020-06-07
+quillacollo           100    169360      2020-06-07
+entre rios            110    36351       2020-06-07
+puerto villarroel     45     52357       2020-06-07
+villa tunari          27     79253       2020-06-07
+chimore               32     26855       2020-06-07
+punata                21     33011       2020-06-07
+sipe sipe             21     24264       2020-06-07
+shinaota              34     24264       2020-06-07
+santivanez            14     7295        2020-06-07
+vinto                 16     62131       2020-06-07
+san benito            8      17085       2020-06-07
+colcapirhua           8      59172       2020-06-07
+omereque              5      5850        2020-06-07
+tiquipaya             8      65881       2020-06-07
+arani                 3      10046       2020-06-07
+colomi                4      22514       2020-06-07
+tarata                2      8722        2020-06-07
+cliza                 2      23987       2020-06-07
+vacas                 2      9154        2020-06-07
+independencia         1      24898       2020-06-07
+bolivar               1      7370        2020-06-07
+capinota              2      21644       2020-06-07
+tolata                1      6183        2020-06-07
+mizque                1      29059       2020-06-07
+toco                  1      7420        2020-06-07
+cercado               324    724126      2020-06-05
+sacaba                154    208913      2020-06-05
+quillacollo           88     169360      2020-06-05
+entre rios            109    36351       2020-06-05
+puerto villarroel     43     52357       2020-06-05
+villa tunari          27     79253       2020-06-05
+chimore               24     26855       2020-06-05
+punata                21     33011       2020-06-05
+sipe sipe             21     24264       2020-06-05
+shinaota              17     24264       2020-06-05
+santivanez            13     7295        2020-06-05
+vinto                 15     62131       2020-06-05
+san benito            8      17085       2020-06-05
+colcapirhua           7      59172       2020-06-05
+omereque              5      5850        2020-06-05
+tiquipaya             6      65881       2020-06-05
+arani                 3      10046       2020-06-05
+colomi                3      22514       2020-06-05
+tarata                2      8722        2020-06-05
+cliza                 2      23987       2020-06-05
+vacas                 2      9154        2020-06-05
+independencia         1      24898       2020-06-05
+bolivar               1      7370        2020-06-05
+capinota              1      21644       2020-06-05
+tolata                1      6183        2020-06-05
